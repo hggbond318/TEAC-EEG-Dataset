@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "TEAC: Teaching EEG Assessment Corpus"
+authors:
+  - family-names: "黄"
+    given-names: "义秋"
+    orcid: "https://orcid.org/0009-0002-3765-2486"
+date-released: 2026-11-04
+version: "1.0.0"
+license: CC-BY-4.0
+doi: "10.5281/zenodo.23954545"
