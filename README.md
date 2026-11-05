@@ -1,6 +1,6 @@
 # TEAC: Teaching EEG Assessment Corpus
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23954544.svg)](https://doi.org/10.5281/zenodo.23954544)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23954545.svg)](https://doi.org/10.5281/zenodo.23954545)
 
 ## 1. Dataset Overview
 The Teaching EEG Assessment Corpus (TEAC) is an educational EEG dataset collected during instructional-video learning. It was designed to support the study of attention-, confusion-, and cognitive-load-related EEG variation in a continuous learning setting, including data-driven cognitive-state discovery.
@@ -22,7 +22,7 @@ The current release contains EEG from 17 university students. Each participant c
 
 ## 4. File Structure & Download
 The raw data files are hosted on Zenodo. You can download the full dataset here:
-👉 **[Download from Zenodo (DOI: 10.5281/zenodo.23954544)](https://doi.org/10.5281/zenodo.23954544)**
+👉 **[Download from Zenodo (DOI: 10.5281/zenodo.23954545)](https://doi.org/10.5281/zenodo.23954545)**
 
 - `TEAC.zip`: Contains all the raw `.fif` EEG data files.
 - `behavior_scores.txt`: Contains the behavioral ratings and scores for each participant.
